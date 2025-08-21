@@ -16,7 +16,6 @@ Currently, I am learning **health-related topics** and working with **IBM SPSS**
 ![SPSS](https://img.shields.io/badge/SPSS-002147?style=for-the-badge&logo=ibm&logoColor=white)  
 
 ## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saira-ali-bhatti-041573242/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saira-ali-bhatti-041573242/)   
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairalibhatti98@gmail.com)  
 ---
