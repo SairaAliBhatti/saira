@@ -1,8 +1,7 @@
 # Hi there 👋  
 
 ## 🧑‍💻 About Me  
-I'm Saira, a final-year **Data Science student**, with a strong interest in **Deep Learning, Healthcare Data Analytics, and Health Data Science**.  
-Currently, I am learning **health-related topics** and working with **IBM SPSS** to analyze healthcare data. My academic journey has focused on **Machine Learning, Data Analysis, and Data Visualization**, and I aspire to leverage data for **social impact and innovation**.  
+I'm Saira, a final-year **Data Science student**, with a strong interest in **Deep Learning, Healthcare Data Analytics, and Health Data Science**. Currently, I am learning **health-related topics** and working with **IBM SPSS** to analyze healthcare data. My academic journey has focused on **Machine Learning, Data Analysis, and Data Visualization**, and I aspire to leverage data for **social impact and innovation**.  
 
 ## 📊 Skills  
 
