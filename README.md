@@ -2,9 +2,7 @@
 
 ## 🧑‍💻 About Me  
 I'm Saira, a final-year **Data Science student**, with a strong interest in **Deep Learning, Healthcare Data Analytics, and Health Data Science**.  
-Currently, I am learning **health-related topics** and working with **IBM SPSS** to analyze healthcare data.  
-
-My academic journey has focused on **Machine Learning, Data Analysis, and Data Visualization**, and I aspire to leverage data for **social impact and innovation**.  
+Currently, I am learning **health-related topics** and working with **IBM SPSS** to analyze healthcare data. My academic journey has focused on **Machine Learning, Data Analysis, and Data Visualization**, and I aspire to leverage data for **social impact and innovation**.  
 
 ## 📊 Skills  
 
@@ -17,4 +15,8 @@ My academic journey has focused on **Machine Learning, Data Analysis, and Data V
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![SPSS](https://img.shields.io/badge/SPSS-002147?style=for-the-badge&logo=ibm&logoColor=white)  
 
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/saira-ali-bhatti-041573242/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sairalibhatti98@gmail.com)  
 ---
