@@ -2,8 +2,8 @@
 `// MS InfoSec @ NUST · security researcher · published author`
 
 ```
-Exploring the intersection of AI and cybersecurity. Learning by doing, vulnerability research, LLMs, and everything in between. 
-
+Exploring the intersection of AI and cybersecurity. Learning by doing, vulnerability research, LLMs,
+and everything in between. 
 ```
 
 **security toolkit**
