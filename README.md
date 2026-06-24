@@ -2,7 +2,8 @@
 `// MS InfoSec @ NUST · security researcher · published author`
 
 ```
-i break things to understand them, then write about it.
+Exploring the intersection of AI and cybersecurity. Learning by doing, vulnerability research, LLMs, and everything in between. 
+
 ```
 
 **security toolkit**
