@@ -1,4 +1,3 @@
-# saira 
 `// MS InfoSec @ NUST · security researcher · published author`
 
 ```
